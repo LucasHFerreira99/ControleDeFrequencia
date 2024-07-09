@@ -1,0 +1,38 @@
+.botons{
+	margin-top: 30px;
+}
+.botons-home{
+	margin-top: 30px;
+}
+.botons{
+	margin-top: 33px;
+}
+.fundo-home{
+	background-color: #0D9BEB;
+}
+
+.image-home{
+	background-image: url("Imagens/Logo Branca.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	max-width:700px;
+    max-height:700px;
+	width: auto;
+    height:auto;
+    position:absolute;	
+}
+.fundo-cadastros{
+	background-color: #ffffff;
+}
+
+.image-cadastros{
+	background-image: url("Imagens/Logo Azul.png");
+	background-repeat: no-repeat;
+	justify-content: center !important;
+	width: 700px !important;
+	height: 700px !important;
+	position:absolute !important;
+	margin-left: 550px !important;
+	margin-top: 100px !important;
+
+}
